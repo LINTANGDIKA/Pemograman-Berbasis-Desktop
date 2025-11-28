@@ -1,0 +1,8 @@
+=== STRUK PESANAN ===
+Nasi Goreng : Rp20000.0
+Nasi Goreng : Rp20000.0
+Nasi Goreng : Rp20000.0
+Nasi Goreng : Rp20000.0
+Potongan Voucher : Rp-10000.0
+--------------------------------
+Total Bayar : Rp70000.0

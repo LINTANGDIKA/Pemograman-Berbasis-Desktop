@@ -1,0 +1,2 @@
+Makanan;Nasi Goreng;20000.0;Makanan;Makanan Pedas
+Diskon;Potongan Voucher;10000.0
